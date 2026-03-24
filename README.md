@@ -87,15 +87,11 @@ I’m currently focused on breaking into top product-based tech roles by combini
 
 -  Crack a strong **SDE Internship**  
 -  Transition into **top product-based companies**  
--  Build a profile capable of **high-impact engineering roles (50+ LPA path)**  
+-  Build a profile capable of **high-impact engineering roles **  
 
 ---
 
-##  GitHub Stats  
 
-![Prajitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajitha18&show_icons=true)
-
----
 
 ##  Connect With Me  
 
