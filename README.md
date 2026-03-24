@@ -100,4 +100,4 @@ I’m currently focused on breaking into top product-based tech roles by combini
 
 ---
 
-⭐ *Focused. Consistent. Building every day.*
+ *Focused. Consistent. Building every day.*
